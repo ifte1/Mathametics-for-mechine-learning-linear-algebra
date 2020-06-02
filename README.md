@@ -36,3 +36,7 @@ In this assignment you will write a function to perform the Gram-Schmidt procedu
 You'll start by completing a function for 4 basis vectors, before generalising to when an arbitrary number of vectors are given.
 Again, a framework for the function has already been written. Look through the code, and you'll be instructed where to make changes. We'll do the first two rows, and you can use this as a guide to do the last two.
 
+
+Assignment-3==>
+
+About reflecting bear. Details is on the reflectingBear.py file
