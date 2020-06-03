@@ -46,4 +46,4 @@ About reflecting bear. Details is on the reflectingBear.py file
 Assignment-4==>
 
 About google page rank algorithm.
-details on PageRank.py file
+details on PageRank.ipynb file
